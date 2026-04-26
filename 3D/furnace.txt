@@ -1,0 +1,3 @@
+iron_ore iron
+gold_ore gold
+beef_raw beef_cooked

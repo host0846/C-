@@ -1,0 +1,5 @@
+cow.png
+creeper.png
+pig.png
+sheep.png
+zombie.png

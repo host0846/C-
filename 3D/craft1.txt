@@ -1,0 +1,27 @@
+planks planks 
+planks planks 
+crafting_table 1
+
+log   empty 
+empty empty 
+planks 4
+
+planks empty 
+planks empty 
+stick 4
+
+empty    empty 
+blazerod empty 
+blazepowder 2
+
+ender_pearl blazepowder
+empty       empty  
+ender_eye 1
+
+coal  empty 
+stick empty 
+torch 4
+
+empty      flint 
+iron_ingot empty 
+flint_and_steel 1
