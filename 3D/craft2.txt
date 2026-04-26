@@ -1,0 +1,86 @@
+stone stone stone 
+stone empty stone
+stone stone stone
+furnace 1
+
+planks planks planks 
+empty  stick  empty
+empty  stick  empty
+wood_pickaxe 1
+
+stone stone stone
+empty stick empty
+empty stick empty
+stone_pickaxe 1
+
+empty stone empty
+empty stick empty
+empty stick empty
+stone_shovel 1
+
+empty stone empty
+empty stone empty
+empty stick empty
+stone_sword 1
+
+stone stone empty
+stone stick empty
+empty stick empty
+stone_axe 1
+
+iron iron iron
+empty stick empty
+empty stick empty
+iron_pickaxe 1
+
+empty iron empty
+empty stick empty
+empty stick empty
+iron_shovel 1
+
+empty iron empty
+empty iron empty
+empty stick empty
+iron_sword 1
+
+iron iron empty
+iron stick empty
+empty stick empty
+iron_axe 1
+
+diamond diamond diamond
+empty stick empty
+empty stick empty
+diamond_pickaxe 1
+
+empty diamond empty
+empty stick empty
+empty stick empty
+diamond_shovel 1
+
+empty diamond empty
+empty diamond empty
+empty stick empty
+diamond_sword 1
+
+diamond diamond empty
+diamond stick empty
+empty stick empty
+diamond_axe 1
+
+iron  empty iron
+empty iron  empty
+empty empty empty
+bucket 1
+
+wool   wool   wool
+planks planks planks
+empty  empty  empty
+bed 1
+
+planks planks planks
+wool   wool   wool
+empty  empty  empty
+deb 1
+
+
